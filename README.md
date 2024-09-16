@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I am Guillaume 👋
+
+I am a ML scientist passionate about ML frameworks development who enjoys finding interpretable solutions to problems and coding them in a modular way. I look forward to making contributions to FOSS.
+
+To reach out to me, please use [LinkedIn](linkedin.com/in/gtauzin/) or [mastodon](mastodon.social/@gtauzin@sigmoid.social).
 
 <!--
 **gtauzin/gtauzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

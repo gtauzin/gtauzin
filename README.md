@@ -1,11 +1,12 @@
 ## Hi, I am Guillaume 👋
 
-I am a ML scientist with 6y+ experience and a passion about ML frameworks development. I enjoy finding simple, interpretable solutions to problems and coding them in a modular way. I believe in FOSS and I look forward to making contributions.
+I am a ML scientist with 6y+ experience and a passion for ML frameworks development. I enjoy finding simple, interpretable solutions to problems and coding them in a modular way. I believe in FOSS and I look forward to making contributions.
 
 ### About me
-- I have been working on a number of tabular and time series tasks. At the moment, I make use of smart grid data to take on tasks such as anomaly detection, classification, and forecasting.
+- I have been working on a number of tabular and time series tasks. At the moment, I make use of smart grid data to support utilities in performing predictive maintenance of electricity grid equipment.
 - I am enthusiastic about the philosophy and simplicity of the [scikit-learn](github.com/scikit-learn/scikit-learn) API. I have developped a number of packages extending and/or integrating with it.
 - In the past couple years, I have been excited about uncertainty quantification and especially conformal prediction!
+- I am a nerd when it comes to MLOps. I enjoy playing with all the ~~toys~~ tools developed. Talk to me about how to structure a data science project so it is production-ready from the get-go or about asset-driven orchestration! 
 - I have a diverse background spanning engineering, applied math, physics, and high-performance computing.
 
 ### Selected open-source projects

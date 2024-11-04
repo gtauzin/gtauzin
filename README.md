@@ -4,7 +4,7 @@ I am a ML scientist with 6y+ experience and a passion for ML frameworks developm
 
 ### About me
 - I have been working on a number of tabular and time series tasks. At the moment, I make use of smart grid data to support utilities in performing predictive maintenance of electricity grid equipment.
-- I am enthusiastic about the philosophy and simplicity of the [scikit-learn](github.com/scikit-learn/scikit-learn) API. I have developped a number of packages extending and/or integrating with it.
+- I am enthusiastic about the philosophy and simplicity of the [scikit-learn](github.com/scikit-learn/scikit-learn) API. I have worked on a number of packages extending and/or integrating with it, most of them unfortunately closed source.
 - In the past couple years, I have been excited about uncertainty quantification and especially conformal prediction!
 - I am a nerd when it comes to MLOps and I enjoy playing with all the ~~toys~~ tools available. Talk to me about how to structure a data science project so it is production-ready from the get-go or about asset-driven orchestration! 
 - I have a diverse background spanning engineering, applied math, physics, and high-performance computing.

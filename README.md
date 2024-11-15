@@ -1,6 +1,6 @@
 ## Hi, I am Guillaume 👋
 
-I am a ML scientist with 6y+ experience and a passion for ML frameworks development. I enjoy finding simple, interpretable solutions to problems and coding them in a modular way. I believe in FOSS and I look forward to making contributions.
+I am a ML scientist with 6y+ experience and a passion for ML package development. I enjoy finding simple, interpretable solutions to problems and coding them in a modular way. I believe in FOSS and I look forward to making contributions.
 
 ### About me
 - I have been working on a number of tabular and time series tasks. At the moment, I make use of smart grid data to support utilities in performing predictive maintenance of electricity grid equipment.

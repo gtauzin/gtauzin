@@ -11,8 +11,8 @@ I am a ML scientist with 6y+ experience and a passion for ML package development
 
 ### Selected open-source projects
 - I am currently working on [kedro-dagster](https://github.com/gtauzin/kedro-dagster) a plugin for orchestrating kedro pipelines with [dagster](https://github.com/dagster-io/dagster), a modern Python asset-oriented orchestrator.
-- During my PhD, I studied turbulence models and evaluated them numerically using [metaLBM](https://github.com/gtauzin/metaLBM), a C++ simulation package running on GPU clusters using MPI, OpenMP, and CUDA.
 - During my postdoc at EPFL, I created [giotto-tda](https://github.com/giotto-ai/giotto-tda), an open-source Topological Data Analysis library for feature engineering and unsupervised learning extending scikit-learn.
+- During my PhD, I studied turbulence models and evaluated them numerically using [metaLBM](https://github.com/gtauzin/metaLBM), a C++ simulation package running on GPU clusters using MPI, OpenMP, and CUDA.
 
 To reach out to me, please use [LinkedIn](https://www.linkedin.com/in/gtauzin/) or [mastodon](https://sigmoid.social/@gtauzin).
 

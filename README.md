@@ -1,10 +1,10 @@
 ## Hi, I am Guillaume 👋
 
-I am a ML scientist with 6y+ experience and a passion for ML package development. I enjoy finding simple, interpretable solutions to problems and coding them in a modular way. I believe in FOSS and I look forward to making contributions.
+I am a ML scientist with 7y+ experience and a passion for ML package development. I enjoy finding simple, interpretable solutions to problems and coding them in a modular way. I believe in FOSS and I look forward to making contributions.
 
 ### About me
 - I have been working on a number of tabular, time series, and vision tasks. At the moment, I make use of smart grid data to support utilities in performing predictive maintenance of electricity grid equipment.
-- I am leading data science projects that are based on [kedro](https://github.com/kedro-org/kedro) to enhance structure and collaboration. I warmly recommend the kedro community from which I have learned so much and I try to contribute to kedro community project as much as my time allows. 
+- I am leading data science projects that are based on [kedro](https://github.com/kedro-org/kedro) to enhance structure and collaboration. I warmly recommend the kedro community from which I have learned so much. I try to contribute to projects within the kedro ecosystem as much as my time allows. 
 - I am enthusiastic about the philosophy and simplicity of the [scikit-learn](https://github.com/scikit-learn/scikit-learn) API. I have worked on a number of packages extending and/or integrating with it, most of them unfortunately closed source.
 - In the past couple years, I have been excited about uncertainty quantification and especially conformal prediction!
 - I have a diverse background spanning engineering, applied math, physics, and high-performance computing.

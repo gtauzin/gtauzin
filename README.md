@@ -1,33 +1,32 @@
-## Hi, I am Guillaume 👋
+## Hi, I'm Guillaume 👋
 
-I am a ML scientist with 10y+ experience and a passion for ML package development. I enjoy finding simple, interpretable solutions to problems and coding them in a modular way. I believe in FOSS and I look forward to making contributions.
+I'm a machine learning scientist and engineer with over 10 years of experience and a deep passion for ML package development. I enjoy breaking down complex problems into manageable components, crafting simple and interpretable solutions, and implementing them with clean, modular code. I'm a strong believer in open-source software and always eager to contribute to projects that align with these values.
 
-### About me
-- I have been working on a number of tabular, time series, and vision tasks. At the moment, I make use of smart grid data to support utilities in performing predictive maintenance of electricity grid equipment.
-- I am leading data science projects that are based on [kedro](https://github.com/kedro-org/kedro) to enhance structure and collaboration. I warmly recommend the kedro community from which I have learned so much. I try to contribute to projects within the kedro ecosystem as much as my time allows. 
-- I am enthusiastic about the philosophy and simplicity of the [scikit-learn](https://github.com/scikit-learn/scikit-learn) API. I have worked on a number of packages extending and/or integrating with it, most of them unfortunately closed source.
-- In the past couple years, I have been excited about uncertainty quantification and especially conformal prediction!
-- I have a diverse background spanning engineering, applied math, physics, and high-performance computing.
+---
 
-### Selected open-source projects
-- I am currently working on [kedro-dagster](https://github.com/gtauzin/kedro-dagster) a plugin for orchestrating kedro pipelines with [dagster](https://github.com/dagster-io/dagster), a modern Python asset-oriented orchestrator.
-- During my postdoc at EPFL, I created [giotto-tda](https://github.com/giotto-ai/giotto-tda), an open-source Topological Data Analysis library for feature engineering and unsupervised learning extending scikit-learn.
-- During my PhD, I studied turbulence models and evaluated them numerically using [metaLBM](https://github.com/gtauzin/metaLBM), a C++ simulation package running on GPU clusters using MPI, OpenMP, and CUDA.
+### 🧠 About Me
 
-To reach out to me, please use [LinkedIn](https://www.linkedin.com/in/gtauzin/) or [mastodon](https://sigmoid.social/@gtauzin).
+- I work across a broad range of data science tasks and specialize in time series problems such as forecasting, anomaly detection, and classification.
+- I lead data science projects built on [Kedro](https://github.com/kedro-org/kedro), using it to enhance structure, maintainability, and team collaboration. I highly recommend the Kedro community—I've learned so much from it and contribute back whenever I can.
+- I'm enthusiastic about the philosophy and simplicity of the [scikit-learn](https://github.com/scikit-learn/scikit-learn) API. I've worked on several packages that extend or integrate with it, though most remain closed source.
+- In recent years, I've been especially interested in uncertainty quantification and conformal prediction.
+- My academic and technical background spans engineering, applied mathematics, physics, and high-performance computing.
 
-<!--
-**gtauzin/gtauzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Selected Open-Source Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[kedro-dagster](https://github.com/gtauzin/kedro-dagster)**  
+  A plugin for orchestrating Kedro pipelines using [Dagster](https://github.com/dagster-io/dagster), a modern, asset-oriented orchestrator.
 
+- **[giotto-tda](https://github.com/giotto-ai/giotto-tda)**  
+  Created during my postdoc at EPFL, this is an open-source Topological Data Analysis library for feature engineering and unsupervised learning, built on top of scikit-learn.
+
+- **[metaLBM](https://github.com/gtauzin/metaLBM)**  
+  Developed during my PhD, this is a GPU-accelerated C++ simulation package for turbulence modeling using MPI, OpenMP, and CUDA.
+
+---
+
+### 📬 Get in Touch
+
+You can reach me via [LinkedIn](https://www.linkedin.com/in/gtauzin/) or [Mastodon](https://sigmoid.social/@gtauzin).

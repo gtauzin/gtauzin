@@ -2,6 +2,9 @@
 
 I'm a machine learning scientist and engineer with over 10 years of experience and a deep passion for ML package development. I enjoy breaking down complex problems into manageable components, crafting simple and interpretable solutions, and implementing them with clean, modular code. I'm a strong believer in open-source software and always eager to contribute to projects that align with these values.
 
+> [!NOTE]
+> I am on the lookout for new opportunities! Don’t hesitate to get in touch with me here on [LinkedIn](https://www.linkedin.com/in/gtauzin/) if you’re interested in connecting.
+ 
 ---
 
 ### :japanese_goblin: About Me

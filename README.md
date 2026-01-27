@@ -1,20 +1,17 @@
-## Hi, I'm Guillaume 👋
+## Hi, I’m Guillaume 👋
 
-I'm a machine learning scientist and engineer with over 10 years of experience and a deep passion for ML package development. I enjoy breaking down complex problems into manageable components, crafting simple and interpretable solutions, and implementing them with clean, modular code. I'm a strong believer in open-source software and always eager to contribute to projects that align with these values.
+I’m an independent consultant in data science and machine learning engineering specializing in time series problems, with over 10 years of experience designing and delivering production-ready machine learning systems. I enjoy breaking down complex, time-dependent problems into simple, interpretable solutions and implementing them with clean, modular code. I strongly believe in open-source software and actively contribute to the Python ML ecosystem.
 
 > [!NOTE]
-> I am on the lookout for new opportunities! Don’t hesitate to get in touch with me here on [LinkedIn](https://www.linkedin.com/in/gtauzin/) if you’re interested in connecting.
- 
----
+> I’m open to new consulting engagements and collaborations. Don’t hesitate to get in touch on LinkedIn if you’d like to connect.
 
 ### :japanese_goblin: About Me
 
-- I work across a broad range of data science tasks and specialize in time series problems such as forecasting, anomaly detection, motif discovery and classification.
-- I lead data science projects built on [Kedro](https://github.com/kedro-org/kedro), using it to enhance structure, maintainability, and team collaboration. I highly recommend the Kedro community—I've learned so much from it and contribute back whenever I can.
+- I specialize in time series problems such as forecasting, anomaly detection, motif discovery, and classification, with applications in both industrial and business settings.
+- I lead end-to-end data science projects built on Kedro, focusing on structure, reproducibility, maintainability, and smooth production deployment.
+- I’m the author of kedro-dagster, which brings asset-based orchestration to Kedro using Dagster, and I regularly contribute to the Kedro and scikit-learn ecosystems.
 - I have worked on several packages that extend or integrate with the [scikit-learn](https://github.com/scikit-learn/scikit-learn) API, though most remain closed source.
-- My academic and technical background spans engineering, applied mathematics, physics, and high-performance computing.
-
----
+- My academic and technical background spans engineering, applied mathematics, physics, and high-performance computing, which strongly informs how I approach modeling, scalability, and system design.
 
 ### 🛠 Selected Open-Source Projects
 

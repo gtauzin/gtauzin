@@ -11,7 +11,6 @@ I’m an independent consultant in data science and machine learning engineering
 - I lead end-to-end data science projects built on Kedro, focusing on structure, reproducibility, maintainability, and smooth production deployment.
 - I’m the author of kedro-dagster, which brings asset-based orchestration to Kedro using Dagster, and I regularly contribute to the Kedro and scikit-learn ecosystems.
 - I have worked on several packages that extend or integrate with the [scikit-learn](https://github.com/scikit-learn/scikit-learn) API, though most remain closed source.
-- My academic and technical background spans engineering, applied mathematics, physics, and high-performance computing, which strongly informs how I approach modeling, scalability, and system design.
 
 ### 🛠 Selected Open-Source Projects
 

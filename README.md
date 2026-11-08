@@ -2,15 +2,11 @@
 
 ## Guillaume Tauzin
 
-CTO at Evolta Technologies and founder of stateful-y. Machine learning scientist and engineer, working on time-series systems from exploration to production.
+CTO at [Evolta Technologies](https://www.evolta-technologies.com), building agentic AI for battery energy storage systems, and founder of [stateful-y](https://stateful-y.io), open-source packages for end-to-end time-series systems. Machine learning scientist and engineer, working on time-series systems from exploration to production.
 
-### CTO at [Evolta Technologies](https://www.evolta-technologies.com)
+### Open source
 
-Agentic AI for Battery Energy Storage Systems.
-
-### Founder of [stateful-y](https://stateful-y.io)
-
-Open-source packages for end-to-end time-series systems, all Apache 2.0.
+Packages from stateful-y, all Apache 2.0.
 
 - **[Yohou](https://github.com/stateful-y/yohou)**: time-series forecasting with a scikit-learn API. Forecasters are scikit-learn estimators, with composable transformers, cross-validation and prediction intervals
   - **[Yohou-Optuna](https://github.com/stateful-y/yohou-optuna)**: hyperparameter tuning with Optuna

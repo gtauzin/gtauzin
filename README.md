@@ -1,30 +1,32 @@
-## Hi, I’m Guillaume 👋
+<img src="evolta-banner.png" alt="Evolta Technologies: Agentic AI for Battery Energy Storage Systems">
 
-I’m an independent consultant in data science and machine learning engineering specializing in time series problems, with over 10 years of experience designing and delivering production-ready machine learning systems. I enjoy breaking down complex, time-dependent problems into simple, interpretable solutions and implementing them with clean, modular code. I strongly believe in open-source software and actively contribute to the Python ML ecosystem.
+## Guillaume Tauzin
 
-> [!NOTE]
-> I’m open to new consulting engagements and collaborations. Don’t hesitate to get in touch on LinkedIn if you’d like to connect.
+CTO at Evolta Technologies and founder of stateful-y. Machine learning scientist and engineer, working on time-series systems from exploration to production.
 
-### :japanese_goblin: About Me
+### CTO at [Evolta Technologies](https://www.evolta-technologies.com)
 
-- I specialize in time series problems such as forecasting, anomaly detection, motif discovery, and classification, with applications in both industrial and business settings.
-- I lead end-to-end data science projects built on Kedro, focusing on structure, reproducibility, maintainability, and smooth production deployment.
-- I’m the author of kedro-dagster, which brings asset-based orchestration to Kedro using Dagster, and I regularly contribute to the Kedro and scikit-learn ecosystems.
-- I have worked on several packages that extend or integrate with the [scikit-learn](https://github.com/scikit-learn/scikit-learn) API, though most remain closed source.
+Agentic AI for Battery Energy Storage Systems.
 
-### 🛠 Selected Open-Source Projects
+### Founder of [stateful-y](https://stateful-y.io)
 
-- **[kedro-dagster](https://github.com/gtauzin/kedro-dagster)**  
-  A plugin for orchestrating Kedro pipelines using [Dagster](https://github.com/dagster-io/dagster), a modern, asset-oriented orchestrator.
+Open-source packages for end-to-end time-series systems, all Apache 2.0.
 
-- **[giotto-tda](https://github.com/giotto-ai/giotto-tda)**  
-  Created during my postdoc at EPFL, this is an open-source Topological Data Analysis library for feature engineering and unsupervised learning, built on top of scikit-learn.
+- **[Yohou](https://github.com/stateful-y/yohou)**: time-series forecasting with a scikit-learn API. Forecasters are scikit-learn estimators, with composable transformers, cross-validation and prediction intervals
+  - **[Yohou-Optuna](https://github.com/stateful-y/yohou-optuna)**: hyperparameter tuning with Optuna
+  - **[Yohou-Nixtla](https://github.com/stateful-y/yohou-nixtla)**: Nixtla's statistical, ML and foundation models as Yohou forecasters
+  - **[Yohou-MLflow](https://github.com/stateful-y/yohou-mlflow)**: save, track and serve forecasters with MLflow
+- **[Kedro-Dagster](https://github.com/stateful-y/kedro-dagster)**: run Kedro projects on Dagster. Datasets become assets and pipelines become jobs, scheduled and monitored in Dagster, without changing the project
+- **[Kedro-AzureML-Pipeline](https://github.com/stateful-y/kedro-azureml-pipeline)**: run and schedule Kedro pipelines as Azure ML pipeline jobs, one step per node. A rewrite of GetInData's kedro-azureml
+- **[sklearn-wrap](https://github.com/stateful-y/sklearn-wrap)**: wrap any Python class into a scikit-learn compatible estimator
+- **[sklearn-optuna](https://github.com/stateful-y/sklearn-optuna)**: hyperparameter tuning for scikit-learn estimators with Optuna
+- **[python-package-copier](https://github.com/stateful-y/python-package-copier)**: Copier template for Python packages with uv, ruff, ty, nox and MkDocs. Every stateful-y package starts from it
 
-- **[metaLBM](https://github.com/gtauzin/metaLBM)**  
-  Developed during my PhD, this is a GPU-accelerated C++ simulation package for turbulence modeling using MPI, OpenMP, and CUDA.
+### Earlier
 
----
+- **[giotto-tda](https://github.com/giotto-ai/giotto-tda)**: topological data analysis for machine learning, with a scikit-learn-compatible API. Led during a postdoc at EPFL
+- **[metaLBM](https://github.com/gtauzin/metaLBM)**: lattice Boltzmann code for turbulence simulation, hybrid parallel with MPI, OpenMP and CUDA. Written during a PhD
 
-### 📬 Get in Touch
+### Contact
 
-You can reach me via [LinkedIn](https://www.linkedin.com/in/gtauzin/) or [Mastodon](https://sigmoid.social/@gtauzin).
+[LinkedIn](https://www.linkedin.com/in/gtauzin/) · [Mastodon](https://sigmoid.social/@gtauzin) · [stateful-y.io](https://stateful-y.io)
